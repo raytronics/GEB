@@ -1,0 +1,1 @@
+#1、FACTORIAL[N]=N!

@@ -19,7 +19,7 @@
 
 ## Chapter 13: 自指与自复制
 这一章里给了一个很有趣的印符遗传学例子，尝试实现如下：
-### ImprintEnzyme.py
+### Symbolic_DNA_Enzyme.py
 这个文件里实现了印符串（DNA）和印符酶（15种氨基酸的功能），可以实现15种氨基酸组成的印符酶对印符串的操作。
 
 将会进一步完成印符串到印符酶的翻译，以及自复制系统。
@@ -50,7 +50,7 @@ Tasks related to the WJU system and the TNT system are yet to be completed.
 ## Chapter 16: Self-Reference and Self-Replication  
 This chapter introduces an intriguing example of symbolic genetics. The following will be implemented:  
 
-### ImprintEnzyme.py  
+### Symbolic_DNA_Enzyme.py  
 This file implements operations on symbolic strings (DNA) and imprint enzymes (functions of 15 amino acids). It can simulate operations performed by enzymes composed of these 15 amino acids on DNA strings.  
 
 Further work will include translating symbolic strings into enzymes and building a self-replicating system.  
